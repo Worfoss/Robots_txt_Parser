@@ -52,7 +52,7 @@ class Robots:
             result = html.read().decode()
         except IOError:
             sys.exit("** There is no robots.txt for : " + self.url) 
-        print('** Robots.txt find for : ' + self.url + '\n')
+        print('** Robots.txt find for : ' + self.url)
         return result
 
     def urlParser(self, page):
