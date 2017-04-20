@@ -2,7 +2,7 @@
 
 Output: 
 ```
-$ python RobotsTxtParser.py                                                                                                                                                     [±master ●]
+$ python RobotsTxtParser.py
 ** Robots.txt find for : https://www.google.com
 
 https://www.google.com/search : 200
