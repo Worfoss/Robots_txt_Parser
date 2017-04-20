@@ -22,6 +22,6 @@ https://www.google.com/m/ : 404
 https://www.google.com/wml? : 200
 ```  
 Todo:
-  *argparse
-  *csv ouput
-  *xml output
+*argparse
+*csv ouput
+*xml output
