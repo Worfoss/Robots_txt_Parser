@@ -1,6 +1,3 @@
-# -*- coding: utf-8 -*-
-# Python v3.6
-
 from urllib.request import urlopen
 from useragent import Useragent
 import urllib.error
